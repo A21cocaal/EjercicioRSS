@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
   <rss version="2.0">
     <channel>
       <title>TodoHardware tus noticias de hardware de confianza</title>
@@ -25,7 +25,6 @@
 </image>
 
       <pubDate>Wed, 09 Feb 2022 20:30:00 GMT</pubDate>
-
       <item>
         <title>Intel lista 16 nuevas vulnerabilidades a nivel de BIOS</title>
         <link>https://github.com/A21cocaal</link>
@@ -38,7 +37,6 @@
          
         <author>a21cocaal@iesgrancapitan.org (Alberto Cobos)</author>
         <source url="https://elchapuzasinformatico.com/2022/02/intel-lista-16-nuevas-vulnerabilidades-a-nivel-de-bios/">    </source>
-      
 </item>
             <item>
         <title>Vuelve el stock de tarjetas gráficas, pero los precios siguen altos</title>
@@ -53,9 +51,8 @@
         <enclosure url="https://cdn.pixabay.com/photo/2020/06/07/00/07/computer-5268574_1280.jpg" length="78654" type="image/jpg"/>  
         <author>a21cocaal@iesgrancapitan.org (Alberto Cobos)</author>
         <source url="https://hardzone.es/noticias/tarjetas-graficas/stock-tarjetas-graficas-precios-altos/"> </source>
-      
       </item>
-            <item>
+<item>
         <title>Cooler Master presenta nuevas fuentes de alimentación con conector PCIe 5.0 y hasta 1300W</title>
         <link>https://github.com/A21cocaal</link>
         <description>La semana pasada conocíamos la nueva línea de fuentes de alimentación MSI MEG y MPG que incluyen el nuevo conector para tarjetas gráficas de próxima generación PCI Express 5.0. Ahora también lo vemos disponible en las nuevas fuentes de Cooler Master modelos V1100 y V1300. Estos nuevos modelos del fabricante vienen en formato compacto SFX-L ideales para construcciones Mini-ITX donde el espacio no sobra. 
@@ -67,9 +64,8 @@ También incluye un ventilador de 120 mm para mantener una buena temperatura en 
         <enclosure url="https://cdn.pixabay.com/photo/2016/01/29/15/42/computer-1168203_1280.jpg" length="78654" type="image/jpg"/>  
         <author>a21cocaal@iesgrancapitan.org (Alberto Cobos)</author>
         <source url="https://www.geeknetic.es/Noticia/24450/Cooler-Master-presenta-nuevas-fuentes-de-alimentacion-con-conector-PCIe-50-y-hasta-1300W.html"> </source>
-      
       </item>
-            <item>
+<item>
         <title>Cómo activar la memoria RAM virtual en tu Xiaomi</title>
         <link>https://github.com/A21cocaal</link>
         <description>Xiaomi ha integrado la opción de la memoria RAM virtual en algunos dispositivos, y te puede venir bien en situaciones de alta exigencia.:
@@ -85,8 +81,7 @@ Cuando lo hagas, habrás añadido 3 GB de memoria RAM virtual a tu dispositivo, 
         <enclosure url="https://cdn.pixabay.com/photo/2020/03/16/11/07/xiaomi-4936657_1280.jpg"  length="78654" type="image/jpg"/>
         <author>a21cocaal@iesgrancapitan.org (Alberto Cobos)</author>
 <source url="https://www.elespanol.com/elandroidelibre/tutoriales/20220205/activar-memoria-ram-virtual-xiaomi/624938269_0.html"></source>
-      
-      </item>
+</item>
       
   
 </channel>
